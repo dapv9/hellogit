@@ -1,2 +1,2 @@
-# hellogit (v0.1.0)
+# HELLOGIT (v0.1.0)
 DAVID PARRA
